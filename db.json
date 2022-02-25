@@ -1,0 +1,72 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "name": "Claudia Durn",
+            "job": "Financial Analyst",
+            "description": "in felis donec semper sapien a libero nam dui proin leo",
+            "image": "https://images.pexels.com/photos/8971674/pexels-photo-8971674.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }, 
+          {
+            "id": 2,
+            "name": "Bridget Geerits",
+            "job": "Clinical Specialist",
+            "description": "rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis",
+            "image": "https://images.pexels.com/photos/9790416/pexels-photo-9790416.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }, 
+          {
+            "id": 3,
+            "name": "Melodee Messier",
+            "job": "Senior Quality Engineer",
+            "description": "posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl",
+            "image": "https://images.pexels.com/photos/5491162/pexels-photo-5491162.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }, 
+          {
+            "id": 4,
+            "name": "Leonardo MacKain",
+            "job": "Engineer II",
+            "description": "nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+            "image": "https://images.pexels.com/photos/11191608/pexels-photo-11191608.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }, 
+          {
+            "id": 5,
+            "name": "Sherlocke Greetham",
+            "job": "Financial Advisor",
+            "description": "accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi",
+            "image": "https://images.pexels.com/photos/10570334/pexels-photo-10570334.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }, {
+            "id": 6,
+            "name": "Spense Rutty",
+            "job": "Nurse Practicioner",
+            "description": "ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac",
+            "image": "https://images.pexels.com/photos/10492314/pexels-photo-10492314.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }, 
+          {
+            "id": 7,
+            "name": "Egon Neising",
+            "job": "Developer I",
+            "description": "eleifend luctus ultricies eu nibh quisque id justo sit amet",
+            "image": "https://images.pexels.com/photos/8968509/pexels-photo-8968509.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }, 
+          {
+            "id": 8,
+            "name": "Horatia Mathers",
+            "job": "Actuary",
+            "description": "curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin",
+            "image": "https://images.pexels.com/photos/8968788/pexels-photo-8968788.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }, {
+            "id": 9,
+            "name": "Nealson Tollit",
+            "job": "Structural Engineer",
+            "description": "nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec",
+            "image": "https://images.pexels.com/photos/8705258/pexels-photo-8705258.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }, 
+          {
+            "id": 10,
+            "name": "Joachim Kermannes",
+            "job": "Assistant Manager",
+            "description": "magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non",
+            "image": "https://images.pexels.com/photos/7148812/pexels-photo-7148812.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+          }
+    ]
+}
